@@ -8,4 +8,5 @@ A class for unscented Kalman smoother is implemented for predicting state varibl
 
 ## Benchmark
 The unscented Kalman smoother is used to predict displacement, velocity and acceleration for a single-degree-of-freedom system under random harmonic loading. The detailed description for the target dynamic system is given as follows:
+
 ![sdof](./problem_statement/problem_statement1.PNG)  
