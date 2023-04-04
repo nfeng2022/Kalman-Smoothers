@@ -17,3 +17,8 @@ However, to apply Kalman smoother, the stochastic problem should be rewritten in
 
 With the Kalman smoother, the predictions from Kalman filter and smoother can be summarized in the following table:
 
+|                    Filtered                    |                 Smoothed                   |  
+:----------------------------------------------: | :--------------------------------------------:
+![](./results/filter1.png)                       | ![](./results/smooth1.png)  |
+![](./results/filter2.png)                       | ![](./results/smooth2.png)  |
+![](./results/filter3.png)                       | ![](./results/smooth3.png)  |
