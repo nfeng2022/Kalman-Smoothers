@@ -22,3 +22,8 @@ With the Kalman smoother, the predictions from Kalman filter and smoother can be
 ![](./results/filter1.png)                       | ![](./results/smooth1.png)  |
 ![](./results/filter2.png)                       | ![](./results/smooth2.png)  |
 ![](./results/filter3.png)                       | ![](./results/smooth3.png)  |
+
+**To use Kalman smoother, run**
+```
+python main_script.py
+```
